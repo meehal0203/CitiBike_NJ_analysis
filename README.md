@@ -31,3 +31,8 @@ A static map that plots all bike stations with a visual indication of the most p
 The audience for this presentation will be city officials, public administrators, and heads of New York City municipal departments. The analysis will be presented in a way that is focused, concise, easy to understand, and visually compelling. Visualizations will be colorful enough to be included in press releases, and thoughtful enough to inform programmatic changes.
 
 
+Full analysis can be found on my Tableau Public: https://public.tableau.com/views/NJCitiBikeAnalysisFinal/CitibikeNewJerseyAnalysis2023?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+
+
+Stack Overflow, tutoring and BCS Learning Assistant were used to complete this assignment
