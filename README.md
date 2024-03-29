@@ -9,7 +9,10 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process, so the first task on the job is to build a set of data reports to provide the answers. I have chosen to focus on the CitiBike data from the New Jersey area, Jersey City and Hoboken, just west of Manhattan. which has 82 stations and riders have access to over 27,000 bikes(including those in NYC).
 
 ## Pre-processing the data
-The CitBike NJ Trip History Data is publicly available and I read the 12 monthly csv files for each month of 2023 into a Jupyter Notebook in order to clean and concatenate the data before performing analysis using Tableau.
+
+The CitBike NJ Trip History Data is publicly available and I read the 12 monthly csv files for each month of 2023 into a Jupyter Notebook in order to clean and concatenate the data before performing analysis using Tableau. After checking for and cleaning missing and duplicate values, I checked the data types and discovered that several needed to be changed in order to aid analysis
+![image](https://github.com/meehal0203/CitiBike_NJ_analysis/assets/146681542/cbff4a97-ea2b-46ee-a63e-03f763c5c4b0)
+After merging and cleaning all datasets I was ready for analysis suing this data:
 
 I wanted to answer the following questions:
 
