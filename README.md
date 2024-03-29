@@ -1,6 +1,7 @@
 # New Jersey and Hoboken CitiBike Analysis
 
-![image](https://github.com/meehal0203/citibike_tableau/assets/146681542/7f60c50b-7ce9-4e7c-a000-8e737d4004a4)
+![image](https://github.com/meehal0203/CitiBike_NJ_analysis/assets/146681542/87321675-1a08-4e5a-b3b6-4f3ba6eb4249)
+
 
 
 Congratulations on your new job! As the new lead analyst for the New York Citi BikeLinks to an external site program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
