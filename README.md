@@ -16,12 +16,17 @@ The CitBike NJ Trip History Data is publicly available and I read the csv files 
 I wanted to answer the following questions:
 
 * Which stations are the busiest for starting and ending rides?
-  
+  ![image](https://github.com/meehal0203/CitiBike_NJ_analysis/assets/146681542/4579cdc2-7fc4-4daa-989d-fd242ed0b11f)
+
 * What days of the week are busiest?
+![image](https://github.com/meehal0203/CitiBike_NJ_analysis/assets/146681542/f1b1dbed-72a1-4b57-9165-7f79d57970d3)
+
 
 * What time of day are CitiBikes most frequently used?
+![image](https://github.com/meehal0203/CitiBike_NJ_analysis/assets/146681542/75a68893-5c3d-4a87-9352-767156840947)
 
 * What are the differences in the riding behavior of CitiBike 'members' -  who pay an annual or monthly fee and have unlimited use of the bikes for 45 minutes at a time and the 'casual' members who don't have a subscription,pay to unlock the bicycles each time and then pay by the minute.
+
 
 * Which variety of bike, electric or classic, do these member types prefer?
 
